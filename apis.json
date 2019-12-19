@@ -1,0 +1,65 @@
+{
+    "name": "Invoicefu",
+    "description": "No more hassling with invoice numbers, copying invoices manually, or losing any data. You'll be able to access your invoices from anywhere, at anytime, with all the guarantees of our industry strength secure servers. if you are a web or mobile apps dev...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1079-invoicefu.jpg",
+    "tags": [
+        "api provider",
+        "billing",
+        "financial",
+        "has api",
+        "have api",
+        "invoices",
+        "no api definition"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/invoicefu\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Invoicefu",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1079-invoicefu.jpg",
+            "humanURL": "https:\/\/invoicefu.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/invoicefu-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/invoicefu-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/invoicefu.com\/api\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/invoicefu-com"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/invoicefu.com\/en\/developers"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/invoicefu.com\/prices"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/invoicefu"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/invoicefu.com"
+        }
+    ]
+}
